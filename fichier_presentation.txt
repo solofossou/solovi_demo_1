@@ -1,0 +1,5 @@
+ Nom : Lawson
+ Prénom : Solem
+ pseudo : solovi
+ adresse éléctronique: solemlawson@sfr.fr
+ git c'est sympa
